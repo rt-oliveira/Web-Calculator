@@ -1,0 +1,7 @@
+#calculator{
+    font-size:0;
+}
+
+#calculator > p{
+    font-size: initial;
+}

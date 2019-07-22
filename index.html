@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Web Calculator</title>
+        <link rel="stylesheet" href="css/clean.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+    </head>
+    <body>
+        <script src="js/calc.js"></script>
+        <div id="calculator">
+            <p>Web Calculator</p>
+                <input type="text" readonly id="visor">
+            <div id="primeira-linha">
+                <button type="button" id="botao-limpar" onclick="calculadora.limpar();">Limpar</button>
+                <button type="button" id="botao-voltar" onClick="calculadora.voltar();">Voltar</button>
+            </div>
+            <div class="linha-numero-operador">
+                <button type="button" onclick="calculadora.digitarOperando('1');">1</button>
+                <button type="button" onclick="calculadora.digitarOperando('2');">2</button>
+                <button type="button" onclick="calculadora.digitarOperando('3');">3</button>
+                <button type="button" onclick="calculadora.digitarOperador('+');">+</button>
+            </div>
+            <div class="linha-numero-operador">
+                <button type="button" onclick="calculadora.digitarOperando('4');">4</button>
+                <button type="button" onclick="calculadora.digitarOperando('5');">5</button>
+                <button type="button" onclick="calculadora.digitarOperando('6');">6</button>
+                <button type="button" onclick="calculadora.digitarOperador('-');">-</button>
+            </div>
+            <div class="linha-numero-operador">
+                <button type="button" onclick="calculadora.digitarOperando('7');">7</button>
+                <button type="button" onclick="calculadora.digitarOperando('8');">8</button>
+                <button type="button" onclick="calculadora.digitarOperando('9');">9</button>
+                <button type="button" onclick="calculadora.digitarOperador('*');">*</button>
+            </div>
+            <div class="linha-numero-operador">
+                <button type="button" onclick="calculadora.digitarOperando('0');">0</button>
+                <button type="button" onclick="calculadora.digitarOperando('.');">,</button>
+                <button type="button" onclick="calculadora.finalizarConta();">=</button>
+                <button type="button" onclick="calculadora.digitarOperador('/');">&#247;</button>
+            </div>
+        </div>
+        <script>
+            calculadora.inicializar(document.querySelector("#visor"));
+        </script>
+    </body>
+</html>

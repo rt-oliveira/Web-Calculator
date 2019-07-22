@@ -1,0 +1,31 @@
+/* Define tamanho dos botões Limpar e Voltar */
+#primeira-linha > button{
+    width:6.5em;
+    margin-bottom: .5em;
+}
+
+/* Margem direita do botão Limpar */
+#botao-limpar{
+    margin-right:.25em;
+}
+
+/* Margem esquerda do botão Voltar */
+#botao-voltar{
+    margin-left:.25em;
+}
+
+/* Define tamanho e espaço entre os botões numéricos, em cada linha, 
+e entre as linhas*/
+.linha-numero-operador button{
+    width: 3em;
+    margin-right:.5em;
+    margin-bottom: .5em;
+}
+
+input{
+    width:13.5em;
+    margin-bottom: .5em;
+}
+
+
+
