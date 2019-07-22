@@ -1,35 +1,35 @@
 # Web Calculator
 
-Este é um primeiro projeto, que pode parecer meio pequeno sim, mas que é para começar a criar experiência na linguagem JavaScript.
+Este Ã© um primeiro projeto, que pode parecer meio pequeno sim, mas que Ã© para comeÃ§ar a criar experiÃªncia na linguagem JavaScript.
 
-Web Calculator é uma simples calculadora, que executa as quatro operações básicas (adição, subtração, multiplicação e divisão).
+Web Calculator Ã© uma simples calculadora, que executa as quatro operaÃ§Ãµes bÃ¡sicas (adiÃ§Ã£o, subtraÃ§Ã£o, multiplicaÃ§Ã£o e divisÃ£o).
 
-E enquanto faz as contas, há dois botões de funções específicos: 'Limpar' e 'Voltar'. Eles servem para 'limpar' a calculadora, números digitados e operadores, e voltar dígitos que podem ter sido digitados incorretamente.
+E enquanto faz as contas, hÃ¡ dois botÃµes de funÃ§Ãµes especÃ­ficos: 'Limpar' e 'Voltar'. Eles servem para 'limpar' a calculadora, nÃºmeros digitados e operadores, e voltar dÃ­gitos que podem ter sido digitados incorretamente.
 
 ## Imagem do Software
 
-![Tela da aplicação](imagens/tela_calculadora.png)
+<img alt="Tela da aplicaÃ§Ã£o" src="imagens/tela_calculadora.png" width=400px>
 
 ## Uso
 
-Para usar a aplicação:
+Para usar a aplicaÃ§Ã£o:
 
   1. Fazer o download: Duas formas de baixar o sistema:
   
-    - Baixando o ZIP diretamente do repositório, ou;
-    - Fazendo o clone deste repositório, através do comando:
+    - Baixando o ZIP diretamente do repositÃ³rio, ou;
+    - Fazendo o clone deste repositÃ³rio, atravÃ©s do comando:
     git clone https://github.com/rt-oliveira/Web-Calculator.git
     
   2. Abrir o arquivo *index.html*, e;
   
-  3. Está pronto para ser usado o Web Calculator.
+  3. EstÃ¡ pronto para ser usado o Web Calculator.
   
-## Contribuições
+## ContribuiÃ§Ãµes
   
   - Para contribuir:
-    1. Crie um fork deste repositório
-    2. Crie uma branch para fazer as alterações
-    3. Faça as alterações necessárias
-    4. Faça um commit, e envie para seu repositório remoto
+    1. Crie um fork deste repositÃ³rio
+    2. Crie uma branch para fazer as alteraÃ§Ãµes
+    3. FaÃ§a as alteraÃ§Ãµes necessÃ¡rias
+    4. FaÃ§a um commit, e envie para seu repositÃ³rio remoto
     5. Crie um Pull Request
 
