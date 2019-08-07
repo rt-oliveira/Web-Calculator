@@ -10,7 +10,7 @@ E enquanto faz as contas, há dois botões de funções específicos: 'Limpar' e
 
 ## Imagem do Software
 
-![Tela da aplicação](imagens/tela_calculadora.png)
+<img alt="Tela da aplicação" src="imagens/tela_calculadora.png" width=400px>
 
 ## Uso
 
@@ -28,4 +28,10 @@ Para usar a aplicação:
   
 ## Contribuições
   
-[![Como contribuir para o projeto](https://img.shields.io/badge/Contribuição-Como%20Contribuir-blue.svg)](CONTRIBUTING.md)
+  - Para contribuir:
+    1. Crie um fork deste repositório
+    2. Crie uma branch para fazer as alterações
+    3. Faça as alterações necessárias
+    4. Faça um commit, e envie para seu repositório remoto
+    5. Crie um Pull Request
+
