@@ -10,7 +10,7 @@ E enquanto faz as contas, há dois botões de funções específicos: 'Limpar' e
 
 ## Imagem do Software
 
-<img alt="Tela da aplicação" src="imagens/tela_calculadora.png" width=400px>
+<img alt="Tela da aplicação" src="imagens/tela_calculadora.png" width=350px>
 
 ## Uso
 
